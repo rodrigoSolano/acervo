@@ -1,0 +1,142 @@
+[
+  {
+    "id": 1,
+    "name": "Landing Page",
+    "numberOfComponents": 9,
+    "thumbnail": "",
+    "tags": ["Desktop"]
+  },
+  {
+    "id": 2,
+    "name": "Entry flow",
+    "numberOfComponents": 9,
+    "thumbnail": "",
+    "tags": ["Desktop", "Mobile", "Tablet"]
+  },
+  {
+    "id": 3,
+    "name": "Buscador y filtros",
+    "numberOfComponents": 9,
+    "thumbnail": "",
+    "tags": ["Desktop", "Mobile", "Tablet"]
+  },
+  {
+    "id": 4,
+    "name": "Ecommerce",
+    "numberOfComponents": 9,
+    "thumbnail": "",
+    "tags": ["Desktop", "Mobile", "Tablet"]
+  },
+  {
+    "id": 5,
+    "name": "Checkout flow",
+    "numberOfComponents": 9,
+    "thumbnail": "",
+    "tags": ["Desktop", "Mobile", "Tablet"]
+  },
+  {
+    "id": 6,
+    "name": "Suscripciones y membresias",
+    "numberOfComponents": 9,
+    "thumbnail": "",
+    "tags": ["Desktop", "Mobile", "Tablet"]
+  },
+  {
+    "id": 7,
+    "name": "Mi perfil / Mi cuenta",
+    "numberOfComponents": 9,
+    "thumbnail": "",
+    "tags": ["Desktop", "Mobile", "Tablet"]
+  },
+  {
+    "id": 8,
+    "name": "Calificaciones y reseñas",
+    "numberOfComponents": 9,
+    "thumbnail": "",
+    "tags": ["Desktop", "Mobile", "Tablet"]
+  },
+  {
+    "id": 9,
+    "name": "Carrusel de productos",
+    "numberOfComponents": 9,
+    "thumbnail": "",
+    "tags": ["Desktop", "Mobile", "Tablet"]
+  },
+  {
+    "id": 10,
+    "name": "Carrito de compras",
+    "numberOfComponents": 9,
+    "thumbnail": "",
+    "tags": ["Desktop", "Mobile", "Tablet"]
+  },
+  {
+    "id": 11,
+    "name": "Landing Page",
+    "numberOfComponents": 9,
+    "thumbnail": "",
+    "tags": ["Desktop"]
+  },
+  {
+    "id": 12,
+    "name": "Entry flow",
+    "numberOfComponents": 9,
+    "thumbnail": "",
+    "tags": ["Desktop", "Mobile", "Tablet"]
+  },
+  {
+    "id": 13,
+    "name": "Buscador y filtros",
+    "numberOfComponents": 9,
+    "thumbnail": "",
+    "tags": ["Desktop", "Mobile", "Tablet"]
+  },
+  {
+    "id": 14,
+    "name": "Ecommerce",
+    "numberOfComponents": 9,
+    "thumbnail": "",
+    "tags": ["Desktop", "Mobile", "Tablet"]
+  },
+  {
+    "id": 15,
+    "name": "Checkout flow",
+    "numberOfComponents": 9,
+    "thumbnail": "",
+    "tags": ["Desktop", "Mobile", "Tablet"]
+  },
+  {
+    "id": 16,
+    "name": "Suscripciones y membresias",
+    "numberOfComponents": 9,
+    "thumbnail": "",
+    "tags": ["Desktop", "Mobile", "Tablet"]
+  },
+  {
+    "id": 17,
+    "name": "Mi perfil / Mi cuenta",
+    "numberOfComponents": 9,
+    "thumbnail": "",
+    "tags": ["Desktop", "Mobile", "Tablet"]
+  },
+  {
+    "id": 18,
+    "name": "Calificaciones y reseñas",
+    "numberOfComponents": 9,
+    "thumbnail": "",
+    "tags": ["Desktop", "Mobile", "Tablet"]
+  },
+  {
+    "id": 19,
+    "name": "Carrusel de productos",
+    "numberOfComponents": 9,
+    "thumbnail": "",
+    "tags": ["Desktop", "Mobile", "Tablet"]
+  },
+  {
+    "id": 20,
+    "name": "Carrito de compras",
+    "numberOfComponents": 9,
+    "thumbnail": "",
+    "tags": ["Desktop", "Mobile", "Tablet"]
+  }
+]

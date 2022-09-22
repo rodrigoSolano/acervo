@@ -1,0 +1,33 @@
+{
+  "id": "A001",
+  "name": "Navbar",
+  "code": "UGG-BB-PUR-06",
+  "description": "An botón is a vertically stacked list of headers that can be clicked to reveal or hide content associated with them. It is one of many ways you can expose content to users in a progressive manner.",
+  "figmaURL": "https://www.figma.com/file/ayGYAoHjM0JdShPh4rKVmA/Plataforma-acervo",
+  "estimatedDevelopmentTime": "00:21 h",
+  "platforms": [
+    {
+      "id": "P001",
+      "name": "Web"
+    },
+    {
+      "id": "P002",
+      "name": "Mobile"
+    }
+  ],
+  "platformsCode": [
+    {
+      "id": "A001",
+      "files": {
+        "/App.js": "import React from 'react'; import PropTypes from 'prop-types';import { ChipStyled } from './styles';export default function FilterChip({ selected = false, ...props }) {return <ChipStyled selected={selected} {...props} />}FilterChip.propTypes = {selected: PropTypes.bool}",
+        "/styles.js": "import { Chip, styled } from '@mui/material';const ChipStyled = styled(Chip)(({ theme, selected }) => ({}));export { ChipStyled }"
+      },
+      "dependencies": {
+        "@emotion/react": "^11.10.4",
+        "@emotion/styled": "^11.10.4",
+        "@mui/icons-material": "^5.10.6",
+        "@mui/material": "^5.10.6"
+      }
+    }
+  ]
+}

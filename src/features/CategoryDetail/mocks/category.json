@@ -1,0 +1,60 @@
+{
+  "id": "A001",
+  "name": "Category Title",
+  "code": "A001",
+  "description": "An botón is a vertically stacked list of headers that can be clicked to reveal or he content associated with them. It is one of many ways you can expose content to users in a progressive manner.",
+  "figmaURL": "https://www.figma.com/file/ayGYAoHjM0JdShPh4rKVmA/Plataforma-acervo",
+  "thumbnail": "https://picsum.photos/1280/720",
+  "year": "2020",
+  "keywords": ["Website", "App", "Clean"],
+  "components": [
+    {
+      "id": "1",
+      "thumbnail": "https://picsum.photos/163/120"
+    },
+    {
+      "id": "2",
+      "thumbnail": "https://picsum.photos/163/120"
+    },
+    {
+      "id": "3",
+      "thumbnail": "https://picsum.photos/163/120"
+    },
+    {
+      "id": "4",
+      "thumbnail": "https://picsum.photos/163/120"
+    },
+    {
+      "id": "5",
+      "thumbnail": "https://picsum.photos/163/120"
+    },
+    {
+      "id": "6",
+      "thumbnail": "https://picsum.photos/163/120"
+    },
+    {
+      "id": "7",
+      "thumbnail": "https://picsum.photos/163/120"
+    },
+    {
+      "id": "8",
+      "thumbnail": "https://picsum.photos/163/120"
+    },
+    {
+      "id": "9",
+      "thumbnail": "https://picsum.photos/163/120"
+    },
+    {
+      "id": "10",
+      "thumbnail": "https://picsum.photos/163/120"
+    },
+    {
+      "id": "11",
+      "thumbnail": "https://picsum.photos/163/120"
+    },
+    {
+      "id": "12",
+      "thumbnail": "https://picsum.photos/163/120"
+    }
+  ]
+}
